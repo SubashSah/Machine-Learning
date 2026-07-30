@@ -4,3 +4,4 @@
 #### 3. Polynomial Regression
 #### 3. Ridge Regression
 #### 4. Lasso Regression
+#### 5. Elasticnet Regression
