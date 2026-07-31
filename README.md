@@ -2,6 +2,7 @@
 #### 1. Simple Linear Regression
 #### 2. Multiple Linear Regression
 #### 3. Polynomial Regression
-#### 3. Ridge Regression
-#### 4. Lasso Regression
-#### 5. Elasticnet Regression
+#### 4. Ridge Regression
+#### 5. Lasso Regression
+#### 6. Elasticnet Regression
+#### 7. Logistic Regression
