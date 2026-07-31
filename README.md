@@ -6,3 +6,5 @@
 #### 5. Lasso Regression
 #### 6. Elasticnet Regression
 #### 7. Logistic Regression
+#### 8. Gradient Descent
+
